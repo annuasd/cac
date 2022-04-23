@@ -1,0 +1,1 @@
+rm parser.tab.cc parser.tab.hh lex.yy.c location.hh a.out

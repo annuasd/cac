@@ -1,0 +1,7 @@
+# ninja log v5
+4	708	1650332765143087513	src/CMakeFiles/complib.dir/temp.cpp.o	f9fc07435ed6f2ad
+1039	1097	1650463823723518000	src/libcomplib.a	d63b2fa79cf8ef47
+4	854	1650464048025525418	CMakeFiles/main.dir/main.cpp.o	a8b218c71385e7ab
+5	1086	1650332975520075393	src/CMakeFiles/complib.dir/hello.cpp.o	608ebce3608ff4d9
+854	943	1650464048118979283	main	7acbfeed7f0a11a6
+5	1039	1650463823653115942	src/CMakeFiles/complib.dir/ast.cpp.o	848b2ceb78216de1
